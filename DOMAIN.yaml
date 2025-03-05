@@ -1,10 +1,4 @@
 payload:
-#local
-  - '+.ip6-localhost'
-  - '+.ip6-loopback'
-  - '+.lan'
-  - '+.local'
-  - '+.localhost'
 #apple
   - '+.apple.comscoreresearch.com'
   - '+.aaplimg.com'
