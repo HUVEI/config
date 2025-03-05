@@ -1,0 +1,32 @@
+payload:
+#local
+  - '+.ip6-localhost'
+  - '+.ip6-loopback'
+  - '+.lan'
+  - '+.local'
+  - '+.localhost'
+#apple
+  - '+.apple.comscoreresearch.com'
+  - '+.aaplimg.com'
+  - '+.akadns.net'
+  - '+.apple-cloudkit.com'
+  - '+.apple-dns.net'
+  - '+.apple-mapkit.com'
+  - '+.apple.co'
+  - '+.apple.cn'
+  - '+.apple.com'
+  - '+.apple.com.cn'
+  - '+.apple.news'
+  - '+.appstore.com'
+  - '+.cdn-apple.com'
+  - '+.crashlytics.com'
+  - '+.icloud-content.com'
+  - '+.icloud.com'
+  - '+.icloud.com.cn'
+  - '+.itunes.com'
+  - '+.me.com'
+  - '+.mzstatic.com'
+#taobao
+  - '+.tmall.hk'
+#othe
+  - '+.deepl.com'
